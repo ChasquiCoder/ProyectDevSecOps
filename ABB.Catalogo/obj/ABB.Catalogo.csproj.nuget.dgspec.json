@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Danie\\OneDrive\\Escritorio\\Ciclo 2020-I\\6.Ingenieria Web - 8 - 12md\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo\\ABB.Catalogo.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Danie\\OneDrive\\Escritorio\\Ciclo 2020-I\\6.Ingenieria Web - 8 - 12md\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo\\ABB.Catalogo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danie\\OneDrive\\Escritorio\\Ciclo 2020-I\\6.Ingenieria Web - 8 - 12md\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo\\ABB.Catalogo.csproj",
+        "projectName": "ABB.Catalogo",
+        "projectPath": "C:\\Users\\Danie\\OneDrive\\Escritorio\\Ciclo 2020-I\\6.Ingenieria Web - 8 - 12md\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo\\ABB.Catalogo.csproj",
+        "packagesPath": "C:\\Users\\Danie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danie\\OneDrive\\Escritorio\\Ciclo 2020-I\\6.Ingenieria Web - 8 - 12md\\Abb Catalogo\\ABB.Catalogo\\ABB.Catalogo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.7, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
